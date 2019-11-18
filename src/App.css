@@ -1,22 +1,16 @@
-.App {
-  text-align: center;
+.mt-50 {
+  margin-top: 50px
 }
-
-.App-logo {
-  height: 40vmin;
+#content{
+  border: solid red 3px;
+  padding: 20px;
+  border-radius: 5%
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.active{
+  border: solid black 5px
 }
-
-.App-link {
-  color: #09d3ac;
+span{
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
 }
